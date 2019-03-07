@@ -1,0 +1,24 @@
+{
+  "name": "reddit-flat-list",
+  "version": "0.0.0",
+  "description": "No description",
+  "author": "Leonardo Badilla Daza",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^32.0.0",
+    "react": "16.5.0",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-32.0.0.tar.gz",
+    "react-dom": "*",
+    "react-native-elements": "1.1.0",
+    "react-native-paper": "2.2.8",
+    "react-native-webview": "5.2.4",
+    "react-navigation": "3.3.2",
+    "react-redux": "6.0.1",
+    "react-timestamp": "4.4.0",
+    "redux": "4.0.1",
+    "redux-devtools-extension": "2.13.8",
+    "redux-logger": "3.0.6",
+    "redux-thunk": "2.3.0"
+  }
+}
